@@ -21,10 +21,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-222222?style=flat&logo=ubuntu&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat-square&logo=docker)
 <br/>
 
 ---
+
+[![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-noah&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/its-noah)
 
 Last edited on: `2024/06/06 (yyyy-mm-dd)`
